@@ -6,7 +6,7 @@ I have made this as a submission for Richpanel interview round. It's just to sho
 I have created a Facebook login button in React to get the users name, email and picture. I have also added it to the component state and render the data.
 
 To check the main work, go to:
-(https://github.com/Agrim77/rp-frontend "Agrim's Frontend Main Project")
+[https://github.com/Agrim77/rp-frontend "Agrim's Frontend Main Project"]
 
 <hr />
 
